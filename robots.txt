@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /embed/
 
-Sitemap: https://poki.onrender.com/sitemap.xml
+Sitemap: https://poki-unblocked.onrender.com/sitemap.xml

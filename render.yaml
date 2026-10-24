@@ -1,6 +1,6 @@
 services:
   - type: web
     runtime: static
-    name: poki
+    name: poki-unblocked
     buildCommand: ""
     staticPublishPath: .
